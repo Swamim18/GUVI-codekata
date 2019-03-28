@@ -13,7 +13,7 @@ int a;
     printf("Zero");
   }
   else  {
-    printf("Invalid Input")
+    printf("Invalid Input");
   }
   return 0;
 }
