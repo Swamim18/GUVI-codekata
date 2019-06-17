@@ -1,2 +1,2 @@
-a,b=map(int,input().split())
-print(a**b)
+sw,sa=map(int,input().split())
+print(sw**sa)
